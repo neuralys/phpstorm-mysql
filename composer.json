@@ -1,0 +1,11 @@
+{
+    "name": "neuralys/phpstorm-mysql",
+    "description": "MySQL driver connector for PHP Storm",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nicolas BELIN",
+            "email": "nico@neuralys.com"
+        }
+    ]
+}
